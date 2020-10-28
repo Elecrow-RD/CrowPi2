@@ -4,8 +4,8 @@ Step 1: Configure the Raspberry Pi (in the terminal) by typing:
   sudo raspi-config
 
 Step 2: select as follows:
-  1.jpg
-  2.jpg
+  ![](./1.png)
+  ![](./2.png)
 
 
 Step 3: select “Finish”, then select “YES” when it asks for a reboot.
@@ -58,8 +58,8 @@ You need to change it like these:
 
 #Error of Python lesson “making circuit using the bread board”:
 There is an error in the circuit picture,that is, the two ends of the resistor should not be in the same column of the breadboard. You need to build the circuit follow the picture below:
-  3.jpg
-  4.jpg
+  ![](./4.png)
+  ![](./5.png)
 
 
 
