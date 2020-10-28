@@ -59,7 +59,7 @@ You need to change it like these:
 #Error of Python lesson “making circuit using the bread board”:
 There is an error in the circuit picture,that is, the two ends of the resistor should not be in the same column of the breadboard. You need to build the circuit follow the picture below:
   ![](./4.png)
-  ![](./5.png)
+  ![image](https://github.com/Elecrow-RD/CrowPi2/blob/main/5.png)
 
 
 
