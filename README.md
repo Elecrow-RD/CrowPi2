@@ -12,8 +12,8 @@ sudo raspi-config
 ````
 
 Step 2: select as follows:
-![](./1.png)
-![](./2.png)
+![image](https://github.com/Elecrow-RD/CrowPi2/blob/main/1.png)
+![image](https://github.com/Elecrow-RD/CrowPi2/blob/main/2.png)
 
 Step 3: select “Finish”, then select “YES” when it asks for a reboot.
 
@@ -79,7 +79,7 @@ GPIO.setmode(GPIO.BCM)
 
 # Error of Python lesson “making circuit using the bread board”:
 There is an error in the circuit picture,that is, the two ends of the resistor should not be in the same column of the breadboard. You need to build the circuit follow the picture below:
-![](./4.png)
+![image](https://github.com/Elecrow-RD/CrowPi2/blob/main/4.png)
 ![image](https://github.com/Elecrow-RD/CrowPi2/blob/main/5.png)
 
 
