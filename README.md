@@ -1,8 +1,12 @@
 # CrowPi2
 Official Elecrow CrowPi2 Repository
 
+
+
 # QA file
 Here we will list the problems that may be encountered on CrowPi2 and give solutions.
+
+
 
 # Expanding the Raspberry Pi file system
 Step 1: Configure the Raspberry Pi (in the terminal) by typing:
@@ -17,11 +21,17 @@ Step 2: select as follows:
 
 Step 3: select “Finish”, then select “YES” when it asks for a reboot.
 
+
+
 # Which Raspberry Pi version is recommended by CrowPi2 software?
 CrowPi2 software is recommended to run on Raspberry Pi 4 2G or higher, preferably 4G or 8GB.
 
+
+
 # Why SDA0(pin 0 in BCM mode) pin can’t be used?
 Since this pin is used to detect the startup pin of the system in order to control the power on/off on the PCBA board. If this pin is used, it may cause the CrowPi2 to shut down.
+
+
 
 # To install the new Raspbain system, what configuration should be done:
 Step 1: If you use the standard Raspbain image, open the config.txt file under the /boot directory of your TF card, add the following command in the end of the config.txt file(start with a new line)
@@ -50,6 +60,8 @@ Step 3: Type the command below to reboot the system:
 sudo reboot 
 ````
 
+
+
 # LCD doesn’t works after a full update(using command “sudo apt-get dist-upgrade”):
 You need to reinstall the LCD library using the following commands:
 
@@ -57,6 +69,7 @@ You need to reinstall the LCD library using the following commands:
 sudo pip install Adafruit_BBIO
 sudo pip3 install Adafruit_BBIO
 ````
+
 
 
 # Error of Python lesson “using the DHT11 sensor”:
@@ -76,6 +89,8 @@ instance = dht11.DHT11(pin=4)
 GPIO.setwarnings(True)
 GPIO.setmode(GPIO.BCM)
 ````
+
+
 
 # Error of Python lesson “making circuit using the bread board”:
 There is an error in the circuit picture,that is, the two ends of the resistor should not be in the same column of the breadboard. You need to build the circuit follow the picture below:
