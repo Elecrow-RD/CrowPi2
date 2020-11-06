@@ -99,7 +99,7 @@ There is an error in the circuit picture,that is, the two ends of the resistor s
 
 
 
-# When the mouse or keyboard does not work, please re-pair it with doggle:
+# The mouse or keyboard doesn't work, re-pair it with the dongle:
 Step 1:
 Pair the mouse:
 1. First to power off the keyboard and the mouse.
@@ -124,6 +124,8 @@ We have not released the CrowPi2 image currently, therefore, backup your image a
 
 
 
-
+# The fan makes noise or doesn't work
+Noise or fan not working are caused by loose contact between the fan and the fan port, you can directly press the fan down to fix the fan tightly, and then it should be work.
+In addition, if you want to permanently fix the fan, there is a double-sided tape on the back of the fan, you only need to tear it off, and then stick it to the fan slot, so that there will be no noise caused by the loose fan in the future.
 
 
