@@ -99,7 +99,7 @@ There is an error in the circuit picture,that is, the two ends of the resistor s
 
 
 
-# How to pair when the keyboard and mouse do not match:
+# When the mouse or keyboard does not work, please re-pair it with doggle:
 Step 1:
 Pair the mouse:
 1. First to power off the keyboard and the mouse.
@@ -116,3 +116,14 @@ Pair the keyboard:
 5. You have successfully pair the keyboard and mouse.
 
 Now you can power on the keyboard and mouse, and use them normally.
+
+
+
+# Release information about CrowPi2 image
+We have not released the CrowPi2 image currently, therefore, backup your image after receiving CrowPi2 yourself! Any news about releasing image, we will update to our official website(https://www.elecrow.com/)
+
+
+
+
+
+
