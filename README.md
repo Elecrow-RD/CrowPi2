@@ -33,9 +33,9 @@ Since this pin is used to detect the startup pin of the system in order to contr
 
 
 
-# To install the new Raspbain system, what configuration should be done:
-Step 1: If you use the standard Raspbain image, open the config.txt file under the /boot directory of your TF card, add the following command in the end of the config.txt file(start with a new line)
-
+# To install an operating system (e.g. Raspbian) from scratch, follow these steps:
+- Step 1: write \*.img file with selected OS to your SD card as you would normally do
+- Step 2: open config.txt file under /boot directory on the resulting SD card and add the following commands at the end of the file
 ````
 hdmi_force_hotplug=1
 max_usb_current=1
@@ -44,23 +44,9 @@ hdmi_mode=87
 hdmi_cvt 1920 1080 60 6 0 0 0
 hdmi_drive=2
 enable_uart=1
+gpio=0=op,dl
 ````
-
-Step 2: Open the terminal and type the following command(ensure that CrowPi2 can access the internet)
-
-````
-git clone https://github.com/elecrow-engle/elecrow_crowpi2.git
-cd elecrow_crowpi2/GPIO
-sudo bash ./start.sh 
-````
-
-Step 3: Type the command below to reboot the system:
-
-````
-sudo reboot 
-````
-
-
+- Step 3: Safely eject SD card, plug it into CrowPi2 and boot
 
 # LCD doesn’t works after a full update(using command “sudo apt-get dist-upgrade”):
 You need to reinstall the LCD library using the following commands:
