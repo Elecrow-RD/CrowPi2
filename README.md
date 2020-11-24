@@ -9,8 +9,8 @@ Here we will list the problems that may be encountered on CrowPi2 and give solut
 # Image releasing
 We have released the image of CrowPi2, you can download it at this link "https://drive.google.com/file/d/1kL1lQcXDQit4ITlbM5aiwib_8aIJ9ziC/view"
 
-The image will restart once when it is booted for the first time, which is a normal phenomenon.
-The image has fixed all the problems listing below, which means you don't need to correct these by yourself!
+- The image will restart once when it is booted for the first time, which is a normal phenomenon.
+- The image has fixed all the problems listing below, which means you don't need to correct these by yourself!
 
 
 # Expanding the Raspberry Pi file system before ungrade your system
