@@ -6,9 +6,14 @@ Official Elecrow CrowPi2 Repository
 # QA file
 Here we will list the problems that may be encountered on CrowPi2 and give solutions.
 
+# Image releasing
+We have released the image of CrowPi2, you can Download it at this link "https://drive.google.com/file/d/1kL1lQcXDQit4ITlbM5aiwib_8aIJ9ziC/view"
+
+The image will restart once when it is booted for the first time, which is a normal phenomenon.
+The image has fixed all the problems listing below, which means you don't need to correct these by yourself!
 
 
-# Expanding the Raspberry Pi file system
+# Expanding the Raspberry Pi file system before ungrade your system
 Step 1: Configure the Raspberry Pi (in the terminal) by typing:
 
 ````
@@ -33,7 +38,7 @@ Since this pin is used to detect the startup pin of the system in order to contr
 
 
 
-# To install an operating system (e.g. Raspbian) from scratch, follow these steps:
+# To install an operating system (e.g. Raspbian, Retropie) from scratch, follow these steps:
 - Step 1: write \*.img file with selected OS to your SD card as you would normally do
 - Step 2: open config.txt file under /boot directory on the resulting SD card and add the following commands at the end of the file
 ````
@@ -102,11 +107,6 @@ Pair the keyboard:
 5. You have successfully pair the keyboard and mouse.
 
 Now you can power on the keyboard and mouse, and use them normally.
-
-
-
-# Release information about CrowPi2 image
-We have not released the CrowPi2 image currently, therefore, backup your image after receiving CrowPi2 yourself! Any news about releasing image, we will update to our official website(https://www.elecrow.com/)
 
 
 
