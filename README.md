@@ -13,7 +13,7 @@ We have released the image of CrowPi2, you can download it at this link "https:/
 - The image has fixed all the problems listing below, which means you don't need to correct these by yourself!
 
 
-# Expanding the Raspberry Pi file system before ungrade your system
+# Expanding the Raspberry Pi file system before upgrading your system
 Step 1: Configure the Raspberry Pi (in the terminal) by typing:
 
 ````
