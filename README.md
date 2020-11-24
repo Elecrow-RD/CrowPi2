@@ -7,7 +7,7 @@ Official Elecrow CrowPi2 Repository
 Here we will list the problems that may be encountered on CrowPi2 and give solutions.
 
 # Image releasing
-We have released the image of CrowPi2, you can Download it at this link "https://drive.google.com/file/d/1kL1lQcXDQit4ITlbM5aiwib_8aIJ9ziC/view"
+We have released the image of CrowPi2, you can download it at this link "https://drive.google.com/file/d/1kL1lQcXDQit4ITlbM5aiwib_8aIJ9ziC/view"
 
 The image will restart once when it is booted for the first time, which is a normal phenomenon.
 The image has fixed all the problems listing below, which means you don't need to correct these by yourself!
