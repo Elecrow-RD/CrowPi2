@@ -117,5 +117,11 @@ There is double-sided tape on the back of the fan.
 If you tear it off, and stick it to the fan slot, that should provide a more permanent fix the noise caused by the loose fan.
 
 
+
 # Caution
 Do not use the power bank and the DC port of the power supply to power CrowPi2 at the same time. It will damage the battery life and even potential safety risks.
+
+
+
+# List of CrowPi2 on-board modules
+![image](https://github.com/Elecrow-RD/CrowPi2/blob/main/6.png)
