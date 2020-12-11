@@ -102,7 +102,7 @@ Step 2:
 Pair the keyboard:
 1. Unplug the receiver.
 2. Power off the keyboard and the mouse.
-3. Plug the receiver into CrowPi2, power on the keyboard and you should see the red light come on. When this happens, immediately press the Esc and Q key at the same time, then you should see the red light start blinking.
+3. Plug the receiver into CrowPi2, power on the keyboard and you should see the status light come on. When this happens, immediately press the Esc and Q key at the same time, then you should see the red light start blinking.
 4. Close the keyboard to the receiver once the blue and red light are on at the same time.
 5. When this happens it means you have successfully paired the keyboard.
 
@@ -115,3 +115,7 @@ Issues with the fan being noisy or not working are caused by loose contact betwe
 Firmly pressing down on the fan down should see the issue improve.
 There is double-sided tape on the back of the fan.
 If you tear it off, and stick it to the fan slot, that should provide a more permanent fix the noise caused by the loose fan.
+
+
+# Caution
+Do not use the power bank and the DC port of the power supply to power CrowPi2 at the same time. It will damage the battery life and even potential safety risks.
