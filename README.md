@@ -102,9 +102,10 @@ Step 2:
 Pair the keyboard:
 1. Unplug the receiver.
 2. Power off the keyboard and the mouse.
-3. Plug the receiver into CrowPi2, power on the keyboard and you should see the status light come on. When this happens, immediately press the Esc and Q key at the same time, then you should see the red light start blinking.
-4. Close the keyboard to the receiver once the blue and red light are on at the same time.
-5. When this happens it means you have successfully paired the keyboard.
+3. Plug the receiver into CrowPi2, power on the keyboard and you should see the status light come on. When this happens, immediately press the Esc and Q key at the same time, then you should see the status light(blue light) start blinking.
+4. Close the keyboard to the receiver.
+5. Once the status light stop blinking and on, it means you have successfully paired the keyboard.
+6. If the status light is still blinking, just unplug the receiver and the plug it back into the USB port to see the result of step 5.
 
 Now you can power on the keyboard and mouse, and use them normally.
 
