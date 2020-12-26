@@ -85,8 +85,8 @@ GPIO.setmode(GPIO.BCM)
 There is an error in the circuit diagram.
 The two ends of the resistor should not be in the same column of the breadboard.
 You need to build the circuit following the picture below:
-![image](https://github.com/Elecrow-RD/CrowPi2/blob/main/4.png)
-![image](https://github.com/Elecrow-RD/CrowPi2/blob/main/5.png)
+![image](https://github.com/Elecrow-RD/CrowPi2/blob/main/pictures/4.png)
+![image](https://github.com/Elecrow-RD/CrowPi2/blob/main/pictures/5.png)
 
 
 
@@ -125,4 +125,4 @@ Do not use the power bank and the DC port of the power supply to power CrowPi2 a
 
 
 # List of CrowPi2 on-board modules
-![image](https://github.com/Elecrow-RD/CrowPi2/blob/main/6.png)
+![image](https://github.com/Elecrow-RD/CrowPi2/blob/main/pictures/6.png)
