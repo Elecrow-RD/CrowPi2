@@ -20,8 +20,8 @@ sudo raspi-config
 ````
 
 Step 2: select as follows:
-![image](https://github.com/Elecrow-RD/CrowPi2/blob/main/1.png)
-![image](https://github.com/Elecrow-RD/CrowPi2/blob/main/2.png)
+![image](https://github.com/Elecrow-RD/CrowPi2/blob/main/pictures/1.png)
+![image](https://github.com/Elecrow-RD/CrowPi2/blob/main/pictures/2.png)
 
 Step 3: select “Finish”, then select “YES” when it asks for a reboot.
 
