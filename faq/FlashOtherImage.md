@@ -19,25 +19,25 @@ gpio=0=op,dl
 
 1. Insert a new *microSD card* (32GB or larger) with a *USB microSD Card Adapter* into a USB port of the CrowPi2.  
 2. Launch the **Raspberry Pi Imager** app (Menu > Accessories > Imager).  
-![imager-01](https://github.com/Pearl-852/CrowPi2/blob/main/images/imager-1.png)  
+![imager-01](../images/imager-1.png)  
 3. Click **CHOOSE OS**.  
-![imager-02](https://github.com/Pearl-852/CrowPi2/blob/main/images/imager-2.png)  
+![imager-02](../images/imager-2.png)  
 4. From the ***Operating System*** list, choose **Emulation and game OS**.  
-![imager-03](https://github.com/Pearl-852/CrowPi2/blob/main/images/imager-3.png)  
+![imager-03](../images/imager-3.png)  
 5. Choose **RetroPie**  
-![imager-04](https://github.com/Pearl-852/CrowPi2/blob/main/images/imager-4.png)  
+![imager-04](../images/imager-4.png)  
 6. Choose the appropriate version for your Raspberry Pi model.  
-![imager-05](https://github.com/Pearl-852/CrowPi2/blob/main/images/imager-5.png)  
+![imager-05](../images/imager-5.png)  
 7. Click **CHOOSE SD CARD**.  
-![imager-06](https://github.com/Pearl-852/CrowPi2/blob/main/images/imager-6.png)  
+![imager-06](../images/imager-6.png)  
 8. From the ***SD Card*** list, choose your desired SD Card for flashing with the selected image.  
-![imager-07](https://github.com/Pearl-852/CrowPi2/blob/main/images/imager-7.png)  
+![imager-07](../images/imager-7.png)  
 9. Review your selected ***OS*** and ***SD Card*** and then click **WRITE**.  
-![imager-08](https://github.com/Pearl-852/CrowPi2/blob/main/images/imager-8.png)  
+![imager-08](../images/imager-8.png)  
 10. Click **YES**, when you are ready to start the flashing process.  
-![imager-09](https://github.com/Pearl-852/CrowPi2/blob/main/images/imager-9.png)  
+![imager-09](../images/imager-9.png)  
 11. After flashing has completed, click **CONTINUE** and close the **Raspberry Pi Imager** app.  
-![imager-10](https://github.com/Pearl-852/CrowPi2/blob/main/images/imager-10.png)  
+![imager-10](../images/imager-10.png)  
 12. Next, you will need to edit the ***config.txt*** file in the newly flashed ***RetroPie SD Card*** before it is suitable for use with the CrowPi2.  
 13. Unplug the USB microSD Card Adapter with the ***RetroPie SD Card*** and then plug it back in for it to be mounted in the system.  
 14. Open a new Terminal (**Ctrl**+**Alt**+**T**).  
@@ -59,5 +59,5 @@ gpio=0=op,dl
 
 <br>
 
-[**<< BACK to FAQs**](https://github.com/Pearl-852/CrowPi2/blob/main/faq/TOC-FAQ.md#frequently-asked-questions)
+[**<< BACK to FAQs**](./TOC-FAQ.md#frequently-asked-questions)
 

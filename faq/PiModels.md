@@ -4,5 +4,5 @@ Crowpi2 software is recommended to run on a Raspberry Pi 4 Model B with 2GB RAM 
 
 <br>
 
-[**<< BACK to FAQs**](https://github.com/Pearl-852/CrowPi2/blob/main/faq/TOC-FAQ.md#frequently-asked-questions)
+[**<< BACK to FAQs**](./TOC-FAQ.md#frequently-asked-questions)
 

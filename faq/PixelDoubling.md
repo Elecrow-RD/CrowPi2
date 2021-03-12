@@ -25,5 +25,5 @@ Pixel Doubling can make fonts more readable (larger) on a small screen with high
 
 <br>
 
-[**<< BACK to FAQs**](https://github.com/Pearl-852/CrowPi2/blob/main/faq/TOC-FAQ.md#frequently-asked-questions)
+[**<< BACK to FAQs**](./TOC-FAQ.md#frequently-asked-questions)
 

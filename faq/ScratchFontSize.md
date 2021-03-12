@@ -18,9 +18,9 @@ There are 3 major versions of the Scratch app, each use a different method to ad
 
 
 ### Scratch 3.0  
-Currently, there is no known method to adjust the font size. But there is a workaround available using Pixel Doubling, see [How to enable Pixel Doubling?](https://github.com/Pearl-852/CrowPi2/blob/main/faq/PixelDoubling.md#how-to-enable-pixel-doubling-for-a-high-resolution-monitor) for details.
+Currently, there is no known method to adjust the font size. But there is a workaround available using Pixel Doubling, see [How to enable Pixel Doubling?](./PixelDoubling.md#how-to-enable-pixel-doubling-for-a-high-resolution-monitor) for details.
 
 <br>
 
-[**<< BACK to FAQs**](https://github.com/Pearl-852/CrowPi2/blob/main/faq/TOC-FAQ.md#frequently-asked-questions)
+[**<< BACK to FAQs**](./TOC-FAQ.md#frequently-asked-questions)
 

@@ -1,6 +1,6 @@
 # CrowPi2
-<a href="https://www.elecrow.com"><img src="https://github.com/Pearl-852/CrowPi2/blob/main/images/Elecrow_logo.png" alt="Elecrow"></a>  
-![image](https://github.com/Pearl-852/CrowPi2/blob/main/images/crowpi2.jpg)  
+<a href="https://www.elecrow.com"><img src="./images/Elecrow_logo.png" alt="Elecrow"></a>  
+![image](./images/crowpi2.jpg)  
 
 <br>
 
@@ -21,12 +21,12 @@ Run the ***Raspberry Pi Setup Wizard***, it will guide you through the process.
 <br>
 
 # Frequently Asked Questions
-Solutions to common problems encountered with CrowPi2 can be found [HERE](https://github.com/Pearl-852/CrowPi2/blob/main/faq/TOC-FAQ.md#frequently-asked-questions).  
+Solutions to common problems encountered with CrowPi2 can be found [HERE](./faq/TOC-FAQ.md#frequently-asked-questions).  
 
 <br>
 
 # Known Issues
-Known issues that have been found are being listed [HERE](https://github.com/Pearl-852/CrowPi2/blob/main/known_issues/TOC-KI.md#known-issues).  
+Known issues that have been found are being listed [HERE](./known_issues/TOC-KI.md#known-issues).  
 
 <br>
 

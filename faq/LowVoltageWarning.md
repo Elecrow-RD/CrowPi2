@@ -2,9 +2,9 @@
 
 It is a design limitation and normal for the **Low Voltage Warning** message appearing while powering the CrowPi2 through the microUSB power port.  
 
-![Low Voltage](https://github.com/Pearl-852/CrowPi2/blob/main/images/UnderVolt.png)  
+![Low Voltage](../images/UnderVolt.png)  
 
 <br>
 
-[**<< BACK to FAQs**](https://github.com/Pearl-852/CrowPi2/blob/main/faq/TOC-FAQ.md#frequently-asked-questions)
+[**<< BACK to FAQs**](./TOC-FAQ.md#frequently-asked-questions)
 
