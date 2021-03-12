@@ -45,7 +45,7 @@ Do not use any power bank and the DC-12V power port to power the CrowPi2 at the 
 # Information of CrowPi2 on-board modules
 
 ### Digital Module:
-| Module             | GPIO pin (Function name) ([WiringPi](https://pinout.xyz/pinout/wiringpi)) | GPIO pin (BCM mode)   | GPIO pin (Board mode) |
+| Module             | GPIO pin (Function name)      | GPIO pin (BCM mode)   | GPIO pin (Board mode) |
 | -------------------| ------------------------------| ----------------------| ----------------------|
 | Relay              | GPIO29                        | [21](https://pinout.xyz/pinout/pin40_gpio21)  | [40](https://pinout.xyz/pinout/pin40_gpio21) |
 | PIR motion sensor  | GPIO4                         | [23](https://pinout.xyz/pinout/pin16_gpio23)  | [16](https://pinout.xyz/pinout/pin16_gpio23) |
@@ -60,6 +60,8 @@ Do not use any power bank and the DC-12V power port to power the CrowPi2 at the 
 | Ultrasonic sensor  | GPIO25, GPIO27                | [26](https://pinout.xyz/pinout/pin37_gpio26), [16](https://pinout.xyz/pinout/pin36_gpio16) | [37](https://pinout.xyz/pinout/pin37_gpio26), [36](https://pinout.xyz/pinout/pin36_gpio16) |
 | Tilt sensor        | GPIO3                         | [22](https://pinout.xyz/pinout/pin15_gpio22)  | [15](https://pinout.xyz/pinout/pin15_gpio22) |
 | DHT11 sensor       | GPIO7                         | [4](https://pinout.xyz/pinout/pin7_gpio4)     | [7](https://pinout.xyz/pinout/pin7_gpio4)    |
+
+(*See reference for [WiringPi](https://pinout.xyz/pinout/wiringpi) pinout*)
 
 ### Analog & [SPI](https://pinout.xyz/pinout/spi) Module:
 | Module             | Analog channel                |
