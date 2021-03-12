@@ -18,5 +18,5 @@ GPIO.setmode(GPIO.BCM)
 
 <br>
 
-[**<< BACK to Known Issues**](https://github.com/Pearl-852/CrowPi2/blob/main/known_issues/TOC-KI.md#known-issues)
+[**<< BACK to Known Issues**](./TOC-KI.md#known-issues)
 
