@@ -6,5 +6,5 @@ Firmly pressing down on the fan at all 4 corners should see the issue improve. A
 
 <br>
 
-[**<< BACK to Known Issues**](https://github.com/Pearl-852/CrowPi2/blob/main/known_issues/TOC-KI.md#known-issues)
+[**<< BACK to Known Issues**](./TOC-KI.md#known-issues)
 
