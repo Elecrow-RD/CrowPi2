@@ -5,7 +5,7 @@
 <br>
 
 # Official CrowPi2 system image
-The latest CrowPi2 system image is available [HERE](https://drive.google.com/file/d/1kL1lQcXDQit4ITlbM5aiwib_8aIJ9ziC/view).  
+The latest CrowPi2 system image is available [HERE](https://drive.google.com/file/d/1vNiY359ShIS39KHX0jtAyz682MvaxhdK/view?usp=sharing).  
 
 ***Note:** It's normal for your system to restart once, when booted for the first time, in order to expand the filesystem automatically.*  
 
