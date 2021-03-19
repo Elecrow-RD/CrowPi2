@@ -2,10 +2,10 @@
 <a href="https://www.elecrow.com"><img src="./images/Elecrow_logo.png" alt="Elecrow"></a>  
 ![image](./images/crowpi2.jpg)  
 
-***Description***
+### Description
 CrowPi2 - Raspberry Pi Laptop & STEM Learning Platform
 
-***Website***
+### Website
 https://www.elecrow.com/crowpi2-raspberry-pi-portable-laptop.html
 
 <br>
