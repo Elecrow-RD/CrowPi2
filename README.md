@@ -8,6 +8,9 @@ CrowPi2 - Raspberry Pi Laptop & STEM Learning Platform
 ### Website
 https://www.elecrow.com/crowpi2-raspberry-pi-portable-laptop.html
 
+### Forums
+https://forum.elecrow.com/categories/Raspberry-Pi-CrowPi
+
 <br>
 
 # Official CrowPi2 system image
@@ -74,7 +77,7 @@ Do not use any power bank and the DC-12V power port to power the CrowPi2 at the 
 | -------------------| ------------------------------|
 | Joystick sensor    | SPI1;y-axis:0;x-axis:1        |
 | Button matrix      | SPI1;4                        |
-| RFID-RC522         | SPIO                          |
+| RFID-RC522         | SPI0                          |
 
 ### [I2C](https://pinout.xyz/pinout/i2c) Modules:
 | Module             | I2C address                   |
