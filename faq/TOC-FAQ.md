@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+1. [How to flash a new CrowPi2 system image?](./FlashCustomImage.md#how-to-flash-a-new-crowpi2-system-image)  
 1. [How to backup the system SD card?](./BackupSDCard.md#how-to-backup-the-system-sd-card)  
 1. [How to expand the Raspberry Pi filesystem?](./ExpandFS.md#how-to-expand-the-raspberry-pi-filesystem)  
 1. [Can I run different OS on CrowPi2 (ex. Raspberry Pi OS, RetroPie, LibreELEC, Ubuntu, etc.)?](./FlashOtherImage.md#can-i-run-different-os-on-crowpi2-ex-raspberry-pi-os-retropie-libreelec-ubuntu-etc)  
@@ -15,6 +16,7 @@
 1. [How to adjust the font size of the Scratch Desktop interface?](./ScratchFontSize.md#how-to-adjust-the-font-size-of-the-scratch-desktop-interface)  
 1. [How to enable Pixel Doubling for a high resolution monitor?](./PixelDoubling.md#how-to-enable-pixel-doubling-for-a-high-resolution-monitor)  
 1. [How to quit the Crowpi2 software?](./Crowpi2Quit.md#how-to-quit-the-crowpi2-software)  
+1. [How to disable the Crowpi2 Boot Video at bootup?](./Crowpi2NoBootVideo.md#how-to-disable-the-crowpi2-boot-video-at-bootup)  
 1. [How to disable the Crowpi2 software from autostart at bootup?](./Crowpi2NoAutostart.md#how-to-disable-the-crowpi2-software-from-autostart-at-bootup)  
 1. [A pop-up warning message, "The software needs to run on CrowPi2, and turn the toggle switch to the A-side!" appears during boot up.](./Crowpi2Warning.md#a-pop-up-warning-message-the-software-needs-to-run-on-crowpi2-and-turn-the-toggle-switch-to-the-a-side-appears-during-boot-up)  
 1. [A "Low Voltage Warning" indication when powering through the microUSB Power Port.](./LowVoltageWarning.md#a-low-voltage-warning-indication-when-powering-through-the-microusb-power-port)  
@@ -22,6 +24,9 @@
 1. [The Keyboard and/or Mouse does not work.](./KbMousePairing.md#the-keyboard-andor-mouse-does-not-work)  
 1. [Why do the (+) and (-) keys only work with screen brightness?](./PlusMinusKeys.md#why-do-the--and---keys-only-work-with-screen-brightness)  
 1. [What does the Function (Fn) key do?](./FnKey.md#what-does-the-function-fn-key-do)  
+1. [How to toggle the trackpad On/Off?](./TrackpadToggle.md#how-to-toggle-the-trackpad-onoff)  
+
+***Note:** If you cannot find your answer here, please visit our [forum](https://forum.elecrow.com/categories/Raspberry-Pi-CrowPi) and post your questions there.*  
 
 <br>
 
