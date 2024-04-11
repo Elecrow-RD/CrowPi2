@@ -9,13 +9,14 @@ CrowPi2 - Raspberry Pi Laptop & STEM Learning Platform
 https://www.elecrow.com/crowpi2-raspberry-pi-portable-laptop.html
 
 ### Forums
-https://forum.elecrow.com/categories/Raspberry-Pi-CrowPi
+https://forum.elecrow.com/categories/hardware
 
 <br>
 
 # Official CrowPi2 system image
-The latest CrowPi2 system image is available [HERE](https://drive.google.com/file/d/1vNiY359ShIS39KHX0jtAyz682MvaxhdK/view?usp=sharing).  
-
+The CrowPi2 system image (buster) is available [HERE](https://drive.google.com/file/d/1vNiY359ShIS39KHX0jtAyz682MvaxhdK/view?usp=sharing).  
+The CrowPi2 system image (bookworm) is available [HERE]
+(https://drive.google.com/drive/folders/1wL76iKKlddYXsqjo1SbnPXMWuJd2dVaH?usp=sharing).
 ***Note:** It's normal for your system to restart once, when booted for the first time, in order to expand the filesystem automatically.*  
 
 <br>
@@ -75,9 +76,9 @@ Do not use any power bank and the DC-12V power port to power the CrowPi2 at the 
 ### Analog & [SPI](https://pinout.xyz/pinout/spi) Module:
 | Module             | Analog channel                |
 | -------------------| ------------------------------|
-| Joystick sensor    | SPI1;y-axis:0;x-axis:1        |
-| Button matrix      | SPI1;4                        |
-| RFID-RC522         | SPI0                          |
+| Joystick sensor    | SPI0.1;y-axis:0;x-axis:1        |
+| Button matrix      | SPI0.1;4                        |
+| RFID-RC522         | SPI0.0                          |
 
 ### [I2C](https://pinout.xyz/pinout/i2c) Modules:
 | Module             | I2C address                   |
