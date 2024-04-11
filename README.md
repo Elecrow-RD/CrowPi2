@@ -15,7 +15,8 @@ https://forum.elecrow.com/categories/hardware
 
 # Official CrowPi2 system image
 The CrowPi2 system image (buster) is available [HERE](https://drive.google.com/file/d/1vNiY359ShIS39KHX0jtAyz682MvaxhdK/view?usp=sharing).  
-# The CrowPi2 system image (bookworm) is available [HERE]
+
+The CrowPi2 system image (bookworm) is available [HERE]
 (https://drive.google.com/drive/folders/1wL76iKKlddYXsqjo1SbnPXMWuJd2dVaH?usp=sharing).
 
 ***Note:** It's normal for your system to restart once when booted for the first time, in order to expand the filesystem automatically.*  
