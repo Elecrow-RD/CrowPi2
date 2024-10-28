@@ -6,7 +6,7 @@
 CrowPi2 - Raspberry Pi Laptop & STEM Learning Platform
 
 ### Website
-https://www.elecrow.com/crowpi2-raspberry-pi-portable-laptop.html
+https://www.elecrow.com/
 
 ### Forums
 https://forum.elecrow.com/categories/hardware
